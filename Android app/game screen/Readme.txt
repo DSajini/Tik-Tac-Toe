@@ -1,1 +1,0 @@
-This is an android app for tik tak toe.
